@@ -1,0 +1,14 @@
+com/example/imageclassification/BuildConfig.java
+ com.example.imageclassification.BuildConfig
+com/example/imageclassification/MainActivity.java
+ com.example.imageclassification.MainActivity
+ com.example.imageclassification.MainActivity$1
+ com.example.imageclassification.MainActivity$1$1
+ com.example.imageclassification.MainActivity$1$2
+ com.example.imageclassification.MainActivity$2
+ com.example.imageclassification.MainActivity$2$1
+ com.example.imageclassification.MainActivity$2$2
+com/example/imageclassification/SendOutside.java
+ com.example.imageclassification.SendOutside
+com/example/imageclassification/MainActivity2.java
+ com.example.imageclassification.MainActivity2

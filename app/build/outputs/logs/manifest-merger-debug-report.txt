@@ -1,0 +1,282 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.google.android.material:material:1.2.1] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\7b986c68302bb3f007e6df4b00d15994\material-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\32460cf1f05fd1d640db83825eaeb671\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\8602c2f677dbc61cac20155eaf71d2f2\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.mlkit:smart-reply:16.1.1] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\6383ae240179d5f47744fa5a8c058410\jetified-smart-reply-16.1.1\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\0a22b2f013206f0880ed2eee9b4f71fa\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\13f66d96bebc6adf18da4aed8eae6f8c\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.mlkit:language-id:16.1.1] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\f4ed7a0244aaede5817a2a476afc22ab\jetified-language-id-16.1.1\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.mlkit:common:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\8387b3ab9668e056a61a54b2f49c5b0e\jetified-common-17.0.0\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\99240def9d4e1a28076d9bce10c31bab\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\6eeeb6d55df4a54c8bed5fe629bdc69e\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\f24f285fed98fec75b889c09d17bbc49\jetified-play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\c1a4fe23393d94f8541a18f7d0e9c19a\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\43a9726822229a3ef8bad49e16232bd7\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\66c2010098c6ac03ed08d55be8cee3ac\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\74b0fb2af9ec5d538d8f92c39dfffe3e\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\b955246e67978166514199c61ca1e7c0\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\59e1bc1c7e8bf5fb35cb8e7da976b5ac\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\cee1c80cbbe30bfb6b52876ca0140076\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\270d210b0fa51579aa954df2841be318\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\e455fb8beb31f52047ade5782deea9cd\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\e18984624d2b09abd97a7fcca0815ace\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\7d7e2fa7b68cdf669d98c11b74ab8f58\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\75528a08694e76ca5f558bc9bd522f27\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\947cbf0ba18e0fc407cc277f6c3cea95\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\7d6c64f81a9185bd600ccc475642f867\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\c6b912de357e73bf3fb02708876eafda\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\a62804a47368eb7ab7c7a621c89cad6f\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\dac827365be936064f611a60455763fc\jetified-firebase-components-16.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\53e41922dd9bd3c9df517a27082fbb6d\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\bb3098949f5d321e84e94d4723d6df49\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\eb9a7ce6996e6c0cd744753be3a452ba\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\5d9e12b6cca0bd36112815c154ca2dbb\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\24342bf49f4e86352fc41f8137ea5dad\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\108c8e9d9c3ba455aa793ffe16e66be4\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\a58f4283dfb58dbe855b89cc9e87bbb0\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\9754004b8f64e47f512d4e68a87f422b\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\2f0c5bae3ac8a066392ff9fab8dc3b35\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml
+		ADDED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml
+		ADDED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.CAMERA
+ADDED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml:6:22-62
+uses-permission#android.permission.INTERNET
+ADDED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml:7:22-64
+application
+ADDED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml:9:5-26:19
+MERGED from [com.google.android.material:material:1.2.1] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\7b986c68302bb3f007e6df4b00d15994\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\7b986c68302bb3f007e6df4b00d15994\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\32460cf1f05fd1d640db83825eaeb671\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\32460cf1f05fd1d640db83825eaeb671\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.mlkit:smart-reply:16.1.1] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\6383ae240179d5f47744fa5a8c058410\jetified-smart-reply-16.1.1\AndroidManifest.xml:22:5-33:19
+MERGED from [com.google.mlkit:smart-reply:16.1.1] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\6383ae240179d5f47744fa5a8c058410\jetified-smart-reply-16.1.1\AndroidManifest.xml:22:5-33:19
+MERGED from [com.google.mlkit:language-id:16.1.1] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\f4ed7a0244aaede5817a2a476afc22ab\jetified-language-id-16.1.1\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.mlkit:language-id:16.1.1] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\f4ed7a0244aaede5817a2a476afc22ab\jetified-language-id-16.1.1\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.mlkit:common:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\8387b3ab9668e056a61a54b2f49c5b0e\jetified-common-17.0.0\AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.mlkit:common:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\8387b3ab9668e056a61a54b2f49c5b0e\jetified-common-17.0.0\AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\99240def9d4e1a28076d9bce10c31bab\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\99240def9d4e1a28076d9bce10c31bab\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\6eeeb6d55df4a54c8bed5fe629bdc69e\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\6eeeb6d55df4a54c8bed5fe629bdc69e\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\f24f285fed98fec75b889c09d17bbc49\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\f24f285fed98fec75b889c09d17bbc49\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\c1a4fe23393d94f8541a18f7d0e9c19a\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\c1a4fe23393d94f8541a18f7d0e9c19a\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\43a9726822229a3ef8bad49e16232bd7\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\43a9726822229a3ef8bad49e16232bd7\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.1] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\a62804a47368eb7ab7c7a621c89cad6f\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\a62804a47368eb7ab7c7a621c89cad6f\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\53e41922dd9bd3c9df517a27082fbb6d\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\53e41922dd9bd3c9df517a27082fbb6d\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\a62804a47368eb7ab7c7a621c89cad6f\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml:15:9-57
+activity#com.example.imageclassification.MainActivity2
+ADDED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml:16:9-18:40
+	android:exported
+		ADDED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml:17:13-42
+activity#com.example.imageclassification.MainActivity
+ADDED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml:19:9-25:20
+	android:name
+		ADDED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml:19:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml
+INJECTED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.2.1] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\7b986c68302bb3f007e6df4b00d15994\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\7b986c68302bb3f007e6df4b00d15994\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\32460cf1f05fd1d640db83825eaeb671\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\32460cf1f05fd1d640db83825eaeb671\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\8602c2f677dbc61cac20155eaf71d2f2\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\8602c2f677dbc61cac20155eaf71d2f2\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.mlkit:smart-reply:16.1.1] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\6383ae240179d5f47744fa5a8c058410\jetified-smart-reply-16.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.mlkit:smart-reply:16.1.1] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\6383ae240179d5f47744fa5a8c058410\jetified-smart-reply-16.1.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\0a22b2f013206f0880ed2eee9b4f71fa\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\0a22b2f013206f0880ed2eee9b4f71fa\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\13f66d96bebc6adf18da4aed8eae6f8c\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\13f66d96bebc6adf18da4aed8eae6f8c\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.mlkit:language-id:16.1.1] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\f4ed7a0244aaede5817a2a476afc22ab\jetified-language-id-16.1.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:language-id:16.1.1] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\f4ed7a0244aaede5817a2a476afc22ab\jetified-language-id-16.1.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:common:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\8387b3ab9668e056a61a54b2f49c5b0e\jetified-common-17.0.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\8387b3ab9668e056a61a54b2f49c5b0e\jetified-common-17.0.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\99240def9d4e1a28076d9bce10c31bab\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\99240def9d4e1a28076d9bce10c31bab\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\6eeeb6d55df4a54c8bed5fe629bdc69e\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\6eeeb6d55df4a54c8bed5fe629bdc69e\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\f24f285fed98fec75b889c09d17bbc49\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\f24f285fed98fec75b889c09d17bbc49\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\c1a4fe23393d94f8541a18f7d0e9c19a\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\c1a4fe23393d94f8541a18f7d0e9c19a\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\43a9726822229a3ef8bad49e16232bd7\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\43a9726822229a3ef8bad49e16232bd7\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\66c2010098c6ac03ed08d55be8cee3ac\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\66c2010098c6ac03ed08d55be8cee3ac\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\74b0fb2af9ec5d538d8f92c39dfffe3e\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\74b0fb2af9ec5d538d8f92c39dfffe3e\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\b955246e67978166514199c61ca1e7c0\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\b955246e67978166514199c61ca1e7c0\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\59e1bc1c7e8bf5fb35cb8e7da976b5ac\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\59e1bc1c7e8bf5fb35cb8e7da976b5ac\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\cee1c80cbbe30bfb6b52876ca0140076\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\cee1c80cbbe30bfb6b52876ca0140076\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\270d210b0fa51579aa954df2841be318\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\270d210b0fa51579aa954df2841be318\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\e455fb8beb31f52047ade5782deea9cd\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\e455fb8beb31f52047ade5782deea9cd\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\e18984624d2b09abd97a7fcca0815ace\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\e18984624d2b09abd97a7fcca0815ace\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\7d7e2fa7b68cdf669d98c11b74ab8f58\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\7d7e2fa7b68cdf669d98c11b74ab8f58\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\75528a08694e76ca5f558bc9bd522f27\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\75528a08694e76ca5f558bc9bd522f27\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\947cbf0ba18e0fc407cc277f6c3cea95\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\947cbf0ba18e0fc407cc277f6c3cea95\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\7d6c64f81a9185bd600ccc475642f867\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\7d6c64f81a9185bd600ccc475642f867\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\c6b912de357e73bf3fb02708876eafda\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\c6b912de357e73bf3fb02708876eafda\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\a62804a47368eb7ab7c7a621c89cad6f\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\a62804a47368eb7ab7c7a621c89cad6f\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\dac827365be936064f611a60455763fc\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\dac827365be936064f611a60455763fc\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\53e41922dd9bd3c9df517a27082fbb6d\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\53e41922dd9bd3c9df517a27082fbb6d\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\bb3098949f5d321e84e94d4723d6df49\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\bb3098949f5d321e84e94d4723d6df49\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\eb9a7ce6996e6c0cd744753be3a452ba\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\eb9a7ce6996e6c0cd744753be3a452ba\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\5d9e12b6cca0bd36112815c154ca2dbb\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\5d9e12b6cca0bd36112815c154ca2dbb\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\24342bf49f4e86352fc41f8137ea5dad\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\24342bf49f4e86352fc41f8137ea5dad\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\108c8e9d9c3ba455aa793ffe16e66be4\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\108c8e9d9c3ba455aa793ffe16e66be4\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\a58f4283dfb58dbe855b89cc9e87bbb0\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\a58f4283dfb58dbe855b89cc9e87bbb0\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\9754004b8f64e47f512d4e68a87f422b\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\9754004b8f64e47f512d4e68a87f422b\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\2f0c5bae3ac8a066392ff9fab8dc3b35\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\2f0c5bae3ac8a066392ff9fab8dc3b35\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml
+INJECTED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml
+		ADDED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml
+		ADDED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Programming\AndroidProject\SmartReplyJavaStarter\app\src\main\AndroidManifest.xml
+service#com.google.mlkit.common.internal.MlKitComponentDiscoveryService
+ADDED from [com.google.mlkit:smart-reply:16.1.1] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\6383ae240179d5f47744fa5a8c058410\jetified-smart-reply-16.1.1\AndroidManifest.xml:23:9-32:19
+MERGED from [com.google.mlkit:language-id:16.1.1] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\f4ed7a0244aaede5817a2a476afc22ab\jetified-language-id-16.1.1\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.mlkit:language-id:16.1.1] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\f4ed7a0244aaede5817a2a476afc22ab\jetified-language-id-16.1.1\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.mlkit:common:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\8387b3ab9668e056a61a54b2f49c5b0e\jetified-common-17.0.0\AndroidManifest.xml:15:9-23:19
+MERGED from [com.google.mlkit:common:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\8387b3ab9668e056a61a54b2f49c5b0e\jetified-common-17.0.0\AndroidManifest.xml:15:9-23:19
+	android:exported
+		ADDED from [com.google.mlkit:smart-reply:16.1.1] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\6383ae240179d5f47744fa5a8c058410\jetified-smart-reply-16.1.1\AndroidManifest.xml:25:13-37
+	tools:targetApi
+		ADDED from [com.google.mlkit:common:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\8387b3ab9668e056a61a54b2f49c5b0e\jetified-common-17.0.0\AndroidManifest.xml:19:13-32
+	android:directBootAware
+		ADDED from [com.google.mlkit:common:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\8387b3ab9668e056a61a54b2f49c5b0e\jetified-common-17.0.0\AndroidManifest.xml:17:13-43
+	android:name
+		ADDED from [com.google.mlkit:smart-reply:16.1.1] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\6383ae240179d5f47744fa5a8c058410\jetified-smart-reply-16.1.1\AndroidManifest.xml:24:13-91
+meta-data#com.google.firebase.components:com.google.mlkit.nl.smartreply.component.SmartReplyComponentRegistrar
+ADDED from [com.google.mlkit:smart-reply:16.1.1] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\6383ae240179d5f47744fa5a8c058410\jetified-smart-reply-16.1.1\AndroidManifest.xml:26:13-28:85
+	android:value
+		ADDED from [com.google.mlkit:smart-reply:16.1.1] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\6383ae240179d5f47744fa5a8c058410\jetified-smart-reply-16.1.1\AndroidManifest.xml:28:17-82
+	android:name
+		ADDED from [com.google.mlkit:smart-reply:16.1.1] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\6383ae240179d5f47744fa5a8c058410\jetified-smart-reply-16.1.1\AndroidManifest.xml:27:17-132
+meta-data#com.google.firebase.components:com.google.mlkit.nl.smartreply.component.RemoteConfigRegistrar
+ADDED from [com.google.mlkit:smart-reply:16.1.1] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\6383ae240179d5f47744fa5a8c058410\jetified-smart-reply-16.1.1\AndroidManifest.xml:29:13-31:85
+	android:value
+		ADDED from [com.google.mlkit:smart-reply:16.1.1] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\6383ae240179d5f47744fa5a8c058410\jetified-smart-reply-16.1.1\AndroidManifest.xml:31:17-82
+	android:name
+		ADDED from [com.google.mlkit:smart-reply:16.1.1] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\6383ae240179d5f47744fa5a8c058410\jetified-smart-reply-16.1.1\AndroidManifest.xml:30:17-125
+meta-data#com.google.firebase.components:com.google.mlkit.nl.languageid.LanguageIdRegistrar
+ADDED from [com.google.mlkit:language-id:16.1.1] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\f4ed7a0244aaede5817a2a476afc22ab\jetified-language-id-16.1.1\AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.mlkit:language-id:16.1.1] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\f4ed7a0244aaede5817a2a476afc22ab\jetified-language-id-16.1.1\AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.mlkit:language-id:16.1.1] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\f4ed7a0244aaede5817a2a476afc22ab\jetified-language-id-16.1.1\AndroidManifest.xml:12:17-113
+provider#com.google.mlkit.common.internal.MlKitInitProvider
+ADDED from [com.google.mlkit:common:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\8387b3ab9668e056a61a54b2f49c5b0e\jetified-common-17.0.0\AndroidManifest.xml:9:9-13:38
+	android:authorities
+		ADDED from [com.google.mlkit:common:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\8387b3ab9668e056a61a54b2f49c5b0e\jetified-common-17.0.0\AndroidManifest.xml:11:13-69
+	android:exported
+		ADDED from [com.google.mlkit:common:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\8387b3ab9668e056a61a54b2f49c5b0e\jetified-common-17.0.0\AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.mlkit:common:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\8387b3ab9668e056a61a54b2f49c5b0e\jetified-common-17.0.0\AndroidManifest.xml:13:13-35
+	android:name
+		ADDED from [com.google.mlkit:common:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\8387b3ab9668e056a61a54b2f49c5b0e\jetified-common-17.0.0\AndroidManifest.xml:10:13-78
+meta-data#com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar
+ADDED from [com.google.mlkit:common:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\8387b3ab9668e056a61a54b2f49c5b0e\jetified-common-17.0.0\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.mlkit:common:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\8387b3ab9668e056a61a54b2f49c5b0e\jetified-common-17.0.0\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.mlkit:common:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\8387b3ab9668e056a61a54b2f49c5b0e\jetified-common-17.0.0\AndroidManifest.xml:21:17-120
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\f24f285fed98fec75b889c09d17bbc49\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\f24f285fed98fec75b889c09d17bbc49\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\f24f285fed98fec75b889c09d17bbc49\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\f24f285fed98fec75b889c09d17bbc49\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\43a9726822229a3ef8bad49e16232bd7\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\43a9726822229a3ef8bad49e16232bd7\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] F:\Programming\AndroidProject\caches\transforms-2\files-2.1\43a9726822229a3ef8bad49e16232bd7\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58

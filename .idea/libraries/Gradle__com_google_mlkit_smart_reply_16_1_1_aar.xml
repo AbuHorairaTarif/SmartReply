@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.mlkit:smart-reply:16.1.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6383ae240179d5f47744fa5a8c058410/jetified-smart-reply-16.1.1/res" />
+      <root url="file://$PROJECT_DIR$/../caches/transforms-2/files-2.1/6383ae240179d5f47744fa5a8c058410/jetified-smart-reply-16.1.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../caches/transforms-2/files-2.1/6383ae240179d5f47744fa5a8c058410/jetified-smart-reply-16.1.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../caches/transforms-2/files-2.1/6383ae240179d5f47744fa5a8c058410/jetified-smart-reply-16.1.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../caches/modules-2/files-2.1/com.google.mlkit/smart-reply/16.1.1/e4578ad2aad313649764097c9a13a3aeb43ac33e/smart-reply-16.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
